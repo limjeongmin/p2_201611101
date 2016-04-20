@@ -28,7 +28,7 @@ t1.right(90)
 t1.fd(200)
 mytracks.append(t1.pos())
 
-    
+print mytracks    
 return mytracks
 
 for t in mytracks:
